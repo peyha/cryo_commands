@@ -7,7 +7,7 @@ cryo logs \
     --blocks 15M: \
     --contract 0x777777c9898d384f785ee44acfe945efdff5f3e0 \
     --event-signature "Supplied(address indexed _from, address indexed _onBehalf, address indexed _poolToken, uint256 _amount, uint256 _balanceOnPool, uint256 _balanceInP2P)" \
-    --inner-request-size 1000\
+    --inner-request-size 10000\
     --topic0 0x11adb3570ba55fd255b1f04252ca0071ae6639c86d4fd69e7c1bf1688afb493f
 
 # Morpho-Aave V2 optimizer withdraw
