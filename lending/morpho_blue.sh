@@ -41,7 +41,7 @@ cryo logs
     --contract $MORPHO_BLUE_CONTRACT_ADDRESS \
     --event-signature "WithdrawCollateral(Id indexed id, address caller, address indexed onBehalf, address indexed receiver, uint256 assets)"
     --inner-request-size 10000\
-    --topic0 0xd5e969f01efe921d3f766bdebad25f0a05e3f237311f56482bf132d0326309c0
+    --topic0 0xe80ebd7cc9223d7382aab2e0d1d6155c65651f83d53c8b9b06901d167e321142
 
 # Morpho Blue borrow
 cryo logs
